@@ -50,13 +50,17 @@ public class Pattern {
         //SUM OF ALL EVEN DIGIT OF GIVEN NUMBER//
 //  -------------------------------------------------
         Scanner sc=new Scanner(System.in);
-        int n=sc.nextInt();
+    long n=sc.nextInt();
         int sum=0;
         while(n!=0){
-            int ld=n%10;
-
-
-
+            long ld=n%10;
+            if(ld%2!=0) {
+                n /= 10;
+                continue;
+            }
+             sum+=ld;
+            n/=10;
+            }
+        System.out.println(sum);
         }
     }
-}
