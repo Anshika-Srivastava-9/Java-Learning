@@ -3,16 +3,16 @@ import java.util.Scanner;
 public class Rectangle {
     public static void main(String [] args){
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter number of rows :");
-        int n=sc.nextInt();
-        System.out.println("Enter number of columns :");
+        System.out.println("Enter the numner of rows ");
         int m=sc.nextInt();
-        for(int i=1;i<=n;i++){
-            for(int j=1;j<=m;j++){
-            System.out.print("* ");
+        System.out.println("Enter the number of columns");
+        int n=sc.nextInt();
+
+        for(int i=1;i<=m;i++){
+            for(int j=1;j<=n;j++) {
+                System.out.print("* ");
             }
             System.out.println();
         }
-
     }
 }
