@@ -1,4 +1,4 @@
-package BasicsOfJava.Loops;
+package BasicsOfJava_Loop;
 
 public class ASCII {
     public static void main(String[] args){

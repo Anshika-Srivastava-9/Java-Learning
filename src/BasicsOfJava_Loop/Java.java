@@ -1,4 +1,4 @@
-package BasicsOfJava.Loops;
+package BasicsOfJava_Loop;
 
 public class Java {
     public static void main(String [] args){

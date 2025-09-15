@@ -1,4 +1,4 @@
-package BasicsOfJava.Loops;
+package BasicsOfJava_Loop;
 
 public class PrintNum_10_To_1 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package BasicsOfJava.Loops;
+package BasicsOfJava_Loop;
 import java.util.Scanner;
 public class ProductOfDigitOfNumber {
     public static void main(String[] args) {
