@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/NumberSystem" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/Operators" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Methods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NumberSystem" vcs="Git" />
   </component>
 </project>
